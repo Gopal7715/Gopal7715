@@ -31,8 +31,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopal7715&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal7715&layout=compact&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopal7715&show_icons=true)
+
 
 ---
 
