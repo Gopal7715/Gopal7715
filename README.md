@@ -1,6 +1,7 @@
 # Hi there, I'm Gopal 👋
 
-🎓 **Student passionate about tech, problem-solving, and building meaningful solutions.**  
+🎓 **A Student who is Curious Enough.**  
+-> **Passionate about tech, problem-solving, and building meaningful solutions.**  
 🔍 Always exploring **new technologies** and the **ethical application of modern tools** to solve real-world challenges.
 
 ![Visitors](https://komarev.com/ghpvc/?username=Gopal7715&style=flat-square)
