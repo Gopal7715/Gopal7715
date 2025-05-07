@@ -31,19 +31,20 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/-gopal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/Gopal_code/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/gopalJi" target="_blank">
-    <img src="https://img.shields.io/badge/Coding Ninjas-Profile-blue?style=for-the-badge&logo=google&logoColor=white" alt="Code360"/>
+    <img src="https://img.shields.io/badge/Coding Ninjas-Profile-blue?style=flat-square&logo=google&logoColor=white" alt="Code360"/>
   </a>
 </p>
+
 
 ---
 
