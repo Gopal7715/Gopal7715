@@ -23,10 +23,18 @@
 
 ---
 
-<h2 align="center"> My GitHub Statistics</h2>
-<p><img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal7715&show_icons=true&locale=en&layout=compact" alt="gopal7715" /></p>
+<h2 align="center">📊 My GitHub Statistics</h2>
 
-<p>&nbsp;<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=gopal7715&show_icons=true&locale=en" alt="gopal7715" /></p>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=gopal7715&show_icons=true&locale=en" alt="gopal7715" />
+</p>
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal7715&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+</div>
+
 
 
 
