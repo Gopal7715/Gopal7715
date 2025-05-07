@@ -26,11 +26,11 @@
 <h2 align="center">📊 My GitHub Statistics</h2>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=gopal7715&show_icons=true&locale=en" alt="gopal7715" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=gopal7715&show_icons=true&theme=swift&locale=en" alt="gopal7715" />
 </p>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal7715&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal7715&show_icons=true&theme=swift&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 </div>
