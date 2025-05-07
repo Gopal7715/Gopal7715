@@ -1,8 +1,8 @@
 <h1 align="center"> 🚀 What's Up, Its Gopal Here.</h1> 
 
-<p align="center"><strong>Aspiring SoftWare Developer | C++ | C | Python </strong></p>
-<p align="center">Curious about new technologies, <strong>Problem-Solving</strong>, and building meaningful solutions.</p>
-<p align="center">Always exploring new technologies and the ethical application of modern tools to solve real-world challenges.</p>
+<h3 align="center"><strong>Aspiring SoftWare Developer | C++ | DSA | C | Python </strong></h3>
+<h3 align="center">HTML | CSS | JavaScript | VS Code | Linux | Problem Solving </h3>
+<h4 align="center">Always exploring new technologies and the ethical application of modern tools to solve real-world challenges.</h4>
 
 ---
 
