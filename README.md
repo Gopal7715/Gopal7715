@@ -26,11 +26,6 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal7715&show_icons=true&theme=swift&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-</div>
-
-
-
-
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
@@ -59,6 +54,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gopal17715&label=Profile%20views&color=0e75b6&style=flat" alt="Gopal17715" />
 </p>
-
 
 _Thanks for visiting!_
